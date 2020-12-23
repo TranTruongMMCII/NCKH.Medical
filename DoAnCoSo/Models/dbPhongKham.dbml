@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PhongKham" Class="dbPhongKhamDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-375228O\SQLEXPRESS;Initial Catalog=PhongKham;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="PhongKhamConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.BACSI" Member="BACSIs">
+    <Type Name="BACSI">
+      <Column Name="MABS" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="HOTEN" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NGAYSINH" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="DIACHI" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="GIOITINH" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="HINHANH" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="MOTA" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="MAKHOA" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GIAKHAM" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Association Name="BACSI_GIOKHAM" Member="GIOKHAMs" ThisKey="MABS" OtherKey="MABS" Type="GIOKHAM" />
+      <Association Name="BACSI_PHIEUHEN" Member="PHIEUHENs" ThisKey="MABS" OtherKey="MABS" Type="PHIEUHEN" />
+      <Association Name="KHOA_BACSI" Member="KHOA" ThisKey="MAKHOA" OtherKey="MAKHOA" Type="KHOA" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GIOKHAM" Member="GIOKHAMs">
+    <Type Name="GIOKHAM">
+      <Column Name="MABS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="GIOKHAM" Member="GIOKHAM1" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Association Name="BACSI_GIOKHAM" Member="BACSI" ThisKey="MABS" OtherKey="MABS" Type="BACSI" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KETQUA" Member="KETQUAs">
+    <Type Name="KETQUA">
+      <Column Name="MAPHIEU" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="KETQUA" Member="KETQUA1" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="NEN" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="KHONGNEN" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="NGAYTAIKHAM" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="HINHANH1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="HINHANH2" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="PHIEUHEN_KETQUA" Member="PHIEUHEN" ThisKey="MAPHIEU" OtherKey="MAPHIEU" Type="PHIEUHEN" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KHOA" Member="KHOAs">
+    <Type Name="KHOA">
+      <Column Name="MAKHOA" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TENKHOA" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="KHOA_BACSI" Member="BACSIs" ThisKey="MAKHOA" OtherKey="MAKHOA" Type="BACSI" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PHIEUHEN" Member="PHIEUHENs">
+    <Type Name="PHIEUHEN">
+      <Column Name="MAPHIEU" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="HOTEN" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="GIOITINH" Type="System.String" DbType="NVarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="NAMSINH" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="DIACHI" Type="System.String" DbType="NText NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Column Name="SDT" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="NGAYKHAM" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="GIOKHAM" Type="System.TimeSpan" DbType="Time NOT NULL" CanBeNull="false" />
+      <Column Name="MOTA" Type="System.String" DbType="NText NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Column Name="MABS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MAXACTHUC" Type="System.String" DbType="VarChar(6) NOT NULL" CanBeNull="false" />
+      <Column Name="TRANGTHAI" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Association Name="PHIEUHEN_KETQUA" Member="KETQUA" ThisKey="MAPHIEU" OtherKey="MAPHIEU" Type="KETQUA" Cardinality="One" />
+      <Association Name="BACSI_PHIEUHEN" Member="BACSI" ThisKey="MABS" OtherKey="MABS" Type="BACSI" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TAIKHOAN" Member="TAIKHOANs">
+    <Type Name="TAIKHOAN">
+      <Column Name="ID" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PASSWORD" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="HOTEN" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="EMAIL" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

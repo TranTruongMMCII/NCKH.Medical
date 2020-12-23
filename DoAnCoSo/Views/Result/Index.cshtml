@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<div class="container" style="margin-top:150px" align="center">
+    <div class="page-header">
+        <h2 style="color:dodgerblue">TRA CỨU KẾT QUẢ</h2>
+        <div class="col-lg-4">
+            <div class="alert alert-info" role="alert">Hãy nhập SĐT và Mã xác nhận in trên phiếu tiếp nhận điều trị để xem kết quả.</div>
+
+            @using (Html.BeginForm("SendRequest", "Result"))
+            {
+                <div class="input-group">
+                    <span class="input-group-addon">Số điện thoại:</span>
+                    <input name="sdt" type="text" class="form-control" placeholder="VD: 0907......" required pattern="[0-9]{10,15}" title="SĐT phải bao gồm 10 đến 15 chữ số">
+                </div>
+
+                <div class="input-group" style="margin-top:20px">
+                    <span class="input-group-addon">Mã xác nhận:&nbsp;</span>
+                    <input name="maXacThuc" type="text" class="form-control" placeholder="VD: ABC123" required pattern="[a-zA-Z0-9]{6}" title="Mã xác thực phải bao gồm 6 ký tự">
+                </div>
+
+                <div class="input-group" style="margin-top:20px">
+                    <input type="submit" class="btn btn-outline-success btn-block fa fa-check-circle" value="Xem Kết Quả" />
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

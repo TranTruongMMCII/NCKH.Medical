@@ -1,0 +1,126 @@
+﻿@model IEnumerable<DoAnCoSo.Models.BACSI>
+
+@{
+    ViewBag.Title = "FillForm";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Điền thông tin</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="~/Content/FormTemplate/images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/FormTemplate/vendor/bootstrap/css/bootstrap.min.css">
+    <!--=========================================~/Content/FormTemplate/======================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/FormTemplate/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--=========================================~/Content/FormTemplate/======================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/FormTemplate/vendor/animate/animate.css">
+    <!--=========================================~/Content/FormTemplate/======================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/FormTemplate/vendor/css-hamburgers/hamburgers.min.css">
+    <!--=========================================~/Content/FormTemplate/======================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/FormTemplate/vendor/select2/select2.min.css">
+    <!--=========================================~/Content/FormTemplate/======================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/FormTemplate/css/util.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/FormTemplate/css/main.css">
+    <!--=========================================~/Content/FormTemplate/======================================================-->
+</head>
+<body>
+    @foreach (var item in Model)
+    {
+        <div class="contact1">
+            <div class="" style="background-color:#f9f9ff">
+                @using (Html.BeginForm("SendBookingForm", "Booking"))
+                {
+                    <span class="contact1-form-title" style="margin-top:70px">
+                        Bước 3: Điền thông tin* <br />
+                    </span>
+
+                    <p>* Nếu bạn đặt lịch cho người thân xin vui lòng điền tên của của họ</p>
+
+                    <table style="margin-bottom:30px">
+                        <tr>
+                            <td>
+                                <div class="">
+                                    <img src="~/Content/Images/@item.HINHANH" width="200px" alt="Không tìm thấy ảnh của Bác Sĩ @item.HOTEN" style="border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;">
+                                </div>
+                            </td>
+                            <td>
+                                <p align="center"><i class="fa fa-user-md" aria-hidden="true" style="color:black;"></i> BS. @item.HOTEN</p>
+                                @*Partial mô tả*@
+                                <p align="center">@item.MOTA</p>
+                            </td>
+                        </tr>
+                    </table>
+
+                    //Chứa mã bác sĩ để truyền xuống controller
+                    <input class="input1" type="text" name="doctorID" value="@item.MABS" style="display:none">
+
+                    <label for="name" style="margin-left:30px;"><i class="fa fa-user" aria-hidden="true" style="color:black"></i> Họ tên:</label>
+                    <div class="wrap-input1 validate-input">
+                        <input class="input1" type="text" name="name" placeholder="VD: Nguyễn Văn A" required autofocus>
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <label for="gender" style="margin-left:30px;"><i class="fa fa-transgender" aria-hidden="true" style="color:black"></i> Giới tính:</label>
+                    <div class="wrap-input1 validate-input">
+                        <input type="radio" name="gender" value="NAM" style="margin-left:60px" checked="checked"> Nam
+                        <input type="radio" name="gender" value="NỮ" style="margin-left:60px"> Nữ
+                    </div>
+
+                    <label for="dob" style="margin-left:30px;"><i class="fa fa-calendar" aria-hidden="true" style="color:black"></i> Năm sinh:</label>
+                    <div class="wrap-input1 validate-input">
+                        <input class="input1" type="date" name="dob" placeholder="01/01/1990" required max="@DateTime.Now.Year-12-31" min="1950-12-31" title="Năm sinh phải lớn hơn 1950 và bé hơn năm hiện tại">
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <label for="phone" style="margin-left:30px;"><i class="fa fa-mobile" aria-hidden="true" style="color:black"></i> Số điện thoại:</label>
+                    <div class="wrap-input1 validate-input">
+                        <input class="input1" type="text" name="phone" placeholder="VD: 0901234567" required pattern="[0-9]{10,15}" title="Số điện thoại không được bao gồm chữ cái và phải có độ dài từ 10 đến 15 số">
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <label for="address" style="margin-left:30px;"><i class="fa fa-map-marker" aria-hidden="true" style="color:black"></i> Địa chỉ:</label>
+                    <div class="wrap-input1 validate-input">
+                        <input class="input1" type="text" name="address" placeholder="VD: 101 Nguyễn Huệ, Bến Thành, Quận 1, TP.HCM" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <label for="detail" style="margin-left:30px;"><i class="fa fa-medkit" aria-hidden="true" style="color:black"></i> Lý do khám:</label>
+                    <div class="wrap-input1 validate-input">
+                        <textarea class="input1" name="detail" placeholder="VD: Khó ngủ, đau đầu mỗi sáng thức dậy..." required></textarea>
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <label for="selectdate" style="margin-left:30px;"><i class="fa fa-calendar" aria-hidden="true" style="color:black"></i> Chọn ngày khám:</label>
+                    <div class="wrap-input1 validate-input">
+                        <input class="input1" type="date" name="selectdate" required min="@DateTime.Now.ToString("yyyy-MM-dd")" max="@DateTime.Now.AddDays(1).ToString("yyyy-MM-dd")" title="Năm sinh phải lớn hơn 1950 và bé hơn năm hiện tại">
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <label for="time" style="margin-left:30px;"><i class="fa fa-clock" aria-hidden="true" style="color:black"></i> Chọn giờ khám:</label>
+                    <div class="wrap-input1 validate-input">
+                        @Html.Action("LoadTimeOfDoctor", "Booking", new { id = @item.MABS })
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <br />
+
+                    <div class="container-contact1-form-btn" style="margin-top:30px">
+                        <button class="contact1-form-btn">
+                            <span>
+                                Đặt lịch
+                                <i class="fa fa-check-square-o" aria-hidden="true" style="color:#ffffff"></i>
+                            </span>
+                        </button>
+                    </div>
+                    @*<a href="https://www.baokim.vn/payment/product/version11?business=vunhatanhtuan13%40gmail.com&id=&order_description=%C4%90%E1%BA%B7t+l%E1%BB%8Bch+kh%C3%A1m+b%E1%BB%87nh+&product_name=Kh%C3%A1m+B%E1%BB%87nh&product_price=150000&product_quantity=1&total_amount=150000&url_cancel=http%3A%2F%2Fbenhvien.somee.com%2F&url_detail=http%3A%2F%2Fbenhvien.somee.com%2FBooking%2FFillForm%2F1&url_success=http%3A%2F%2Fbenhvien.somee.com%2FBooking%2FBookingSuccess"><img src="http://www.baokim.vn/developers/uploads/baokim_btn/" alt="Thanh toán an toàn với Bảo Kim !" border="0" title="Thanh toán trực tuyến an toàn dùng tài khoản Ngân hàng (VietcomBank, TechcomBank, Đông Á, VietinBank, Quân Đội, VIB, SHB,... và thẻ Quốc tế (Visa, Master Card...) qua Cổng thanh toán trực tuyến BảoKim.vn"></a>*@
+                }
+            </div>
+        </div>
+    }
+</body>
+</html>

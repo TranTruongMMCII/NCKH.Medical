@@ -1,0 +1,30 @@
+﻿@model IEnumerable<DoAnCoSo.Models.PHIEUHEN>
+
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <div class="col-md-12">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Họ tên</th>
+                    <th>Ngày sinh</th>
+                    <th>Số điện thoại</th>
+                    <th>Lý do khám</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>@item.HOTEN</td>
+                    <td>@item.NAMSINH.ToShortDateString()</td>
+                    <td>@item.SDT</td>
+                    <td>@item.MOTA</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+}

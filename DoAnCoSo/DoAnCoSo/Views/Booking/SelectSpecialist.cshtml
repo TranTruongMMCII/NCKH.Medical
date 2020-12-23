@@ -1,0 +1,27 @@
+﻿@model IEnumerable<DoAnCoSo.Models.KHOA>
+@{
+    ViewBag.Title = "SelectSpecialist";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<section class="consultans-area section-gap">
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-md-8 pb-80 header-text" style="padding-bottom: 0px;">
+                <h1>Bước 1: Chọn chuyên khoa</h1>
+                <p style="margin-bottom: 50px;">
+                    Chọn chuyên khoa mà bạn muốn khám, chúng tôi sẽ đưa ra danh sách bác sĩ ngay sau khi bạn chọn.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-3 col-md-3 vol-wrap">
+                    <button class="submit-btn primary-btn mt-20" onclick="location.href ='SelectDoctor'+'/'+@item.MAKHOA;">@item.TENKHOA<span class="lnr lnr-arrow-right"></span></button>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+

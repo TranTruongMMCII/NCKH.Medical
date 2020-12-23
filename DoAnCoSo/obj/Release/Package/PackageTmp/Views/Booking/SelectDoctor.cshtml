@@ -1,0 +1,14 @@
+﻿@model IEnumerable<DoAnCoSo.Models.BACSI>
+
+@{
+    ViewBag.Title = "SelectDoctor";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<section class="consultans-area section-gap">
+    <div class="container">
+        @Html.Action("SelectSpecialist", "Booking")
+    </div>
+</section>
+
+

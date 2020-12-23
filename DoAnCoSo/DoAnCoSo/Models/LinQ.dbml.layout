@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LinQ">
+  <DataContextMoniker Name="/LinQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="479e8234-d887-4c5b-87f4-131e7594d172" absoluteBounds="3.5, 1.125, 2, 1.9631982421875003">
+      <DataClassMoniker Name="/LinQDataContext/BACSI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="47685120-a930-491b-8d39-766ac5662fa0" absoluteBounds="3.515, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="730a7358-a3aa-46c9-b7a2-dd7b216eb814" absoluteBounds="6.25, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/LinQDataContext/PHIEUHEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="27ab658d-6014-41ab-8add-0dda45e70984" absoluteBounds="6.265, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="060dcaf7-3614-4d1e-a4b4-2f98198f55ef" absoluteBounds="0.75, 1.5, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/LinQDataContext/KHOA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2496a898-40e1-40b9-bf0d-c71d6be1669f" absoluteBounds="0.765, 1.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 2.2925439453125); (6.25 : 2.2925439453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinQDataContext/BACSI/BACSI_PHIEUHEN" />
+      <nodes>
+        <classShapeMoniker Id="479e8234-d887-4c5b-87f4-131e7594d172" />
+        <classShapeMoniker Id="730a7358-a3aa-46c9-b7a2-dd7b216eb814" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.09699625651042); (3.5 : 2.09699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinQDataContext/KHOA/KHOA_BACSI" />
+      <nodes>
+        <classShapeMoniker Id="060dcaf7-3614-4d1e-a4b4-2f98198f55ef" />
+        <classShapeMoniker Id="479e8234-d887-4c5b-87f4-131e7594d172" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

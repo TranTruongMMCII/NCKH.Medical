@@ -1,0 +1,66 @@
+﻿@using DoAnCoSo.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<TAIKHOAN>
+
+@{
+    ViewBag.Title = "AdminManager";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<p>
+    @Html.ActionLink("Tạo mới Admin", "CreateAdmin")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.ID)*@
+            Tên đăng nhập
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.PASSWORD)*@
+            Mật khẩu
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.HOTEN)*@
+            Họ tên
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.EMAIL)*@
+            Email
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                **********
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HOTEN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EMAIL)
+            </td>
+            <td>
+                @Html.ActionLink("Sửa", "EditAdmin", new { id = item.ID }) |
+                @*@Html.ActionLink("Details", "Details", new { id=item.ID }) |*@
+                @Html.ActionLink("Xóa", "DeleteAdmin", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+    <div class="MenuTrang">
+        @Html.PagedListPager(Model, page => Url.Action("AdminManager", new { page = page }))
+    </div>
+    <style>
+        .MenuTrang li {
+            display: inline;
+        }
+    </style>

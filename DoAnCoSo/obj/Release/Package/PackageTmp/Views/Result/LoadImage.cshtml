@@ -1,0 +1,16 @@
+﻿@model IEnumerable<DoAnCoSo.Models.KETQUA>
+
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <div class="col-md-12" align="center">
+        <img src="~/Content/Images/@item.HINHANH1" alt="@item.HINHANH1 không có ảnh đính kèm" width="80%" style="margin-bottom:30px" />
+    </div>
+
+    <div class="col-md-12" align="center">
+        <img src="~/Content/Images/@item.HINHANH2" alt="@item.HINHANH2 không có ảnh đính kèm" width="80%" style="margin-bottom:30px" />
+    </div>
+}

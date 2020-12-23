@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PhongKhamDatabase" Class="LinQDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\PhongKhamDatabase.mdf;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="PhongKhamDatabaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.BACSI" Member="BACSIs">
+    <Type Name="BACSI">
+      <Column Name="MABS" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="HOTEN" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NAMSINH" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="DIACHI" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="MAKHOA" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="BACSI_PHIEUHEN" Member="PHIEUHENs" ThisKey="MABS" OtherKey="MABS" Type="PHIEUHEN" />
+      <Association Name="KHOA_BACSI" Member="KHOA" ThisKey="MAKHOA" OtherKey="MAKHOA" Type="KHOA" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PHIEUHEN" Member="PHIEUHENs">
+    <Type Name="PHIEUHEN">
+      <Column Name="MAPHIEUHEN" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="HOTEN" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NAMSINH" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DIACHI" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="NGHENGHIEP" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="NGAYHEN" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="MABS" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="BACSI_PHIEUHEN" Member="BACSI" ThisKey="MABS" OtherKey="MABS" Type="BACSI" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KHOA" Member="KHOAs">
+    <Type Name="KHOA">
+      <Column Name="MAKHOA" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TENKHOA" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="KHOA_BACSI" Member="BACSIs" ThisKey="MAKHOA" OtherKey="MAKHOA" Type="BACSI" />
+    </Type>
+  </Table>
+</Database>

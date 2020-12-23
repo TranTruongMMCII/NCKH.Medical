@@ -1,0 +1,53 @@
+﻿@using DoAnCoSo.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<KHOA>
+
+@{
+    ViewBag.Title = "DepartmentManager";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>DepartmentManager</h2>
+
+<p>
+    @Html.ActionLink("Thêm Khoa", "CreateDepartment")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            MAKHOA
+        </th>
+        <th>
+            @*Html.DisplayNameFor(model => model.TENKHOA)*@
+            TENKHOA
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MAKHOA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TENKHOA)
+            </td>
+            <td>
+                @Html.ActionLink("Sửa", "EditDepartment", new { id = item.MAKHOA }) |
+                @*@Html.ActionLink("Details", "Details", new { id=item.MAKHOA }) |*@
+                @Html.ActionLink("Xóa", "DeleteDepartment", new { id = item.MAKHOA })
+            </td>
+        </tr>
+    }
+
+</table>
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+    <div class="MenuTrang">
+        @Html.PagedListPager(Model, page => Url.Action("DepartmentManager", new { page = page }))
+    </div>
+    <style>
+        .MenuTrang li {
+            display: inline;
+        }
+    </style>

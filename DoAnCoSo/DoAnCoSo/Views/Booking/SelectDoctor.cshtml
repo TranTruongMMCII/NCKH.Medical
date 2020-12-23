@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DoAnCoSo.Models.BACSI>
+@{
+    ViewBag.Title = "SelectDoctor";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<section class="consultans-area section-gap">
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-md-8 pb-80 header-text" style="padding-bottom: 0px;">
+                <h1>Bước 2: Chọn Bác sĩ</h1>
+                <p style="margin-bottom: 50px;">
+                    Chọn bác sĩ mà bạn muốn, chúng tôi sẽ liên lạc với bác sĩ giúp bạn.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-3 col-md-3 vol-wrap">
+                    <div class="single-con">
+                        <div class="content">
+                            <a href="@Url.Action("FillForm","Booking")">
+                                <div class="content-overlay"></div>
+                                <img class="content-image img-fluid d-block mx-auto" src="~/img/c1.jpg" alt="">
+                                <h5 align="center" style="margin-top:20px;color:#00c3ff">Kiến Đình Khôi</h5>
+                                <p align="center">
+                                   Số phiếu còn lại: 57
+                                </p>
+                                <div class="content-details fadeIn-bottom">
+                                    <h4>@item.HOTEN</h4>
+                                    <p>
+                                        Số phiếu còn lại: 57
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+

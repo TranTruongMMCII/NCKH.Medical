@@ -1,0 +1,80 @@
+﻿@model DoAnCoSo.Models.KETQUA
+
+@{
+    ViewBag.Title = "DeleteResult";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<h3>Bạn muốn xóa kết quả khám này ?</h3>
+<div>
+    <h4>KETQUA</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.KETQUA1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KETQUA1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NEN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NEN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KHONGNEN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KHONGNEN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NGAYTAIKHAM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NGAYTAIKHAM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HINHANH1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HINHANH1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HINHANH2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HINHANH2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CHUANDOAN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CHUANDOAN)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

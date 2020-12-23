@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DoAnCoSo.Models.GIOKHAM>
+
+@{
+    ViewBag.Title = "TimeManager";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<p>
+    @Html.ActionLink("Thêm Lịch BS", "CreateTime")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MABS)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GIOBDS)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GIOBDC)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MABS)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GIOBDS)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GIOBDC)
+        </td>
+        <td>
+            @Html.ActionLink("Sửa", "EditTime", new {  id=item.MABS  }) |
+            @Html.ActionLink("Xóa", "DeleteTime", new {  id=item.MABS  })
+        </td>
+    </tr>
+}
+
+</table>

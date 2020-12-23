@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DoAnCoSo.Models.BACSI>
+
+@{
+    ViewBag.Title = "SelectDoctor";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<section class="consultans-area section-gap">
+    <div class="container">
+        @Html.Action("SelectSpecialist", "Booking")
+
+        <em style="margin-top:30px;margin-left:20px"><i class="fa fa-search"></i> Kết quả tìm kiếm : </em>
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-3 col-md-3 vol-wrap" style="margin-top:30px">
+                    <div class="single-con">
+                        <div class="content">
+                            <img class="content-image img-fluid d-block mx-auto" src="~/Content/Images/@item.HINHANH" alt="Ảnh của @item.HOTEN">
+                        </div>
+
+                        <h5 align="center" style="margin-top:20px;color:#009fd0">@item.HOTEN</h5>
+
+                        <div>
+                            <span><i class="fas fa-info"></i><b> Mô tả:</b> <em>@item.MOTA</em> <br /></span>
+                            <span><i class="fas fa-map-marker"></i><b> Địa chỉ:</b> <em>@item.DIACHI</em> <br /></span>
+                            <span><i class="fas fa-dollar-sign"></i><b> Giá khám:</b> <em>@string.Format("{0:#,##0}", item.GIAKHAM) VNĐ</em><br /></span>
+                            @using (Html.BeginForm("FillForm", "Booking", new { id = item.MABS }))
+                            {
+                                <button type="submit" class="btn btn-primary btn-block">CHỌN BÁC SĨ NÀY <span class="fa fa-arrow-circle-right"></span></button>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+
+
+
+

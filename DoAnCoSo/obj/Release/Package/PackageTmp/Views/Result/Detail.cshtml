@@ -1,0 +1,33 @@
+﻿@model IEnumerable<DoAnCoSo.Models.KETQUA>
+@{
+                /**/
+
+                Layout = null;
+}
+@foreach (var item in Model)
+{
+    <div class="alert alert-info" role="alert">
+        <strong>Kết quả:</strong>
+        @item.KETQUA1
+    </div>
+
+    <div class="alert alert-info" role="alert">
+        <strong>Chuẩn đoán:</strong>
+        @item.CHUANDOAN
+    </div>
+
+    <div class="alert alert-success" role="alert">
+        <strong>Nên:</strong>
+        @item.NEN
+    </div>
+
+    <div class="alert alert-danger" role="alert">
+        <strong>Không nên:</strong>
+        @item.KHONGNEN
+    </div>
+
+    <div class="alert alert-warning" role="alert">
+        <strong>Ngày tái khám:</strong>
+        @DateTime.Parse(@item.NGAYTAIKHAM.ToString()).ToShortDateString()
+    </div>
+}

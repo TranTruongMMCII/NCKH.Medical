@@ -1,0 +1,1289 @@
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\ApplicationInsights.config
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll.config
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.pdb
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.exe
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.exe.config
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.rsp
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\csi.exe
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\csi.rsp
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\System.AppContext.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.exe
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.exe.config
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.rsp
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Antlr3.Runtime.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Web.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Newtonsoft.Json.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.Helpers.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.Mvc.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.Optimization.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.Razor.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\WebGrease.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.Helpers.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.Mvc.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.Optimization.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.Razor.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Antlr3.Runtime.pdb
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Newtonsoft.Json.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Web.xml
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csprojResolveAssemblyReference.cache
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+D:\DoAnCoSo\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\WebGrease.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+D:\DoAnCoSo\DoAnCoSo\bin\ApplicationInsights.config
+D:\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll.config
+D:\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll
+D:\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.pdb
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.exe
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.exe.config
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.rsp
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\csi.exe
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\csi.rsp
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\System.AppContext.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.exe
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.exe.config
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.rsp
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+D:\DoAnCoSo\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAnCoSo\DoAnCoSo\bin\Antlr3.Runtime.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Web.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Newtonsoft.Json.dll
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.Helpers.dll
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.Mvc.dll
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.Optimization.dll
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.Razor.dll
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.dll
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+D:\DoAnCoSo\DoAnCoSo\bin\WebGrease.dll
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.Helpers.xml
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.Mvc.xml
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.Optimization.xml
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.Razor.xml
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.xml
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+D:\DoAnCoSo\DoAnCoSo\bin\Antlr3.Runtime.pdb
+D:\DoAnCoSo\DoAnCoSo\bin\Newtonsoft.Json.xml
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+D:\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Web.xml
+D:\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csprojResolveAssemblyReference.cache
+D:\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+D:\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+D:\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+D:\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csprojResolveAssemblyReference.cache
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\JWT.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\AK12\Documents\GitHub\DoAnCoSo\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\JWT.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\WebGrease.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\PagedList.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\PagedList.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\PagedList.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\PagedList.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Owin.dll
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\JWT.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Owin.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\PagedList.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\PagedList.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\WebGrease.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\PagedList.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\PagedList.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\Downloads\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\JWT.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Owin.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\PagedList.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\PagedList.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\WebGrease.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\PagedList.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\PagedList.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (3)\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\New folder\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csprojAssemblyReference.cache
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\JWT.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Owin.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.Mvc.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\WebGrease.dll
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.Mvc.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\AK12\Downloads\Compressed\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csprojResolveAssemblyReference.cache
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\JWT.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Owin.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\WebGrease.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csprojAssemblyReference.cache
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\JWT.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Owin.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.Mvc.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\WebGrease.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\PagedList.Mvc.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csprojResolveAssemblyReference.cache
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\AK12\Desktop\DACS\DACS\DoAnCoSo-master\DoAnCoSo-master\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\JWT.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Owin.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\PagedList.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\PagedList.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\WebGrease.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\PagedList.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\PagedList.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.csprojAssemblyReference.cache
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\EntityFramework.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\JWT.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.Owin.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Owin.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\PagedList.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\PagedList.Mvc.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\WebGrease.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\EntityFramework.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.Owin.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\PagedList.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\PagedList.Mvc.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.csprojResolveAssemblyReference.cache
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\AK12\Downloads\Compressed\EndProject\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\JWT.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Owin.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\PagedList.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\PagedList.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\WebGrease.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\PagedList.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\PagedList.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.csprojAssemblyReference.cache
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\New folder (2)\EndProject\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\ApplicationInsights.config
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\csc.exe
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\csc.exe.config
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\csc.rsp
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\csi.exe
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\csi.rsp
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\System.AppContext.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\vbc.exe
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\vbc.exe.config
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\vbc.rsp
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Antlr3.Runtime.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\JWT.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.Web.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Newtonsoft.Json.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Owin.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\PagedList.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\PagedList.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.Helpers.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.Mvc.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.Optimization.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\WebGrease.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Newtonsoft.Json.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\PagedList.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\PagedList.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.Helpers.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.Mvc.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.Optimization.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Antlr3.Runtime.pdb
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.Web.xml
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\HEOKUTE1991\Desktop\ThucNghiem\DoAnCoSo\obj\Debug\DoAnCoSo.csprojAssemblyReference.cache
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\ApplicationInsights.config
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\DoAnCoSo.dll.config
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\DoAnCoSo.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\DoAnCoSo.pdb
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\csc.exe
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\csc.exe.config
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\csc.rsp
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\csi.exe
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\csi.rsp
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\System.AppContext.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\System.Collections.Immutable.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\System.IO.FileSystem.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\System.Reflection.Metadata.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\vbc.exe
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\vbc.exe.config
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\vbc.rsp
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\VBCSCompiler.exe
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\roslyn\VBCSCompiler.exe.config
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Antlr3.Runtime.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\EntityFramework.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\EntityFramework.SqlServer.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\JWT.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.Web.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.WindowsServer.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.ApplicationInsights.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.IdentityModel.Logging.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.Web.Infrastructure.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Newtonsoft.Json.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Owin.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\PagedList.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\PagedList.Mvc.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.Helpers.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.Mvc.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.Optimization.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.Razor.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.Deployment.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.Razor.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\WebGrease.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\EntityFramework.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\EntityFramework.SqlServer.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.IdentityModel.Tokens.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Newtonsoft.Json.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\PagedList.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\PagedList.Mvc.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.Helpers.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.Mvc.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.Optimization.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.Razor.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.Deployment.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\System.Web.WebPages.Razor.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Antlr3.Runtime.pdb
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.ApplicationInsights.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.DependencyCollector.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.WindowsServer.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\bin\Microsoft.AI.Web.xml
+D:\College\NCKH\ThucNghiem\DoAnCoSo\obj\Debug\DoAnCoSo.csprojAssemblyReference.cache
+D:\College\NCKH\ThucNghiem\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+D:\College\NCKH\ThucNghiem\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CopyComplete
+D:\College\NCKH\ThucNghiem\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+D:\College\NCKH\ThucNghiem\DoAnCoSo\obj\Debug\DoAnCoSo.pdb

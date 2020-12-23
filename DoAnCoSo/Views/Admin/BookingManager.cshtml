@@ -1,0 +1,134 @@
+﻿@using DoAnCoSo.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<PHIEUHEN>
+
+@{
+    ViewBag.Title = "BookingManager";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>BookingManager</h2>
+
+<p>
+    @Html.ActionLink("Tạo mới Phiếu hẹn", "CreateBooking")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.HOTEN)*@
+            MAPHIEU
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.HOTEN)*@
+            HOTEN
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.GIOITINH)*@
+            GIOITINH
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.NAMSINH)*@
+            NAMSINH
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.DIACHI)*@
+            DIACHI
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.SDT)*@
+            SDT
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.NGAYKHAM)*@
+            NGAYKHAM
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.GIOKHAM)*@
+            GIOKHAM
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.MOTA)*@
+            MOTA
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.MABS)*@
+            MABS
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.MAXACTHUC)*@
+            MAXACTHUC
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.TRANGTHAI)*@
+            TRANGTHAI
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MAPHIEU)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HOTEN)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GIOITINH)
+        </td>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.NAMSINH)*@
+            @{
+                var Str1 = item.NAMSINH.ToString("dd/MM/yyyy");
+            }
+            @Html.DisplayFor(modelItem => Str1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DIACHI)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SDT)
+        </td>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.NGAYKHAM)*@
+            @{
+                var Str = item.NGAYKHAM.ToString("dd/MM/yyyy");
+            }
+            @Html.DisplayFor(modelItem => Str)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GIOKHAM)
+
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MOTA)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MABS)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MAXACTHUC)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TRANGTHAI)
+        </td>
+        <td>
+            @Html.ActionLink("Nhận", "AcceptBooking", new { id = item.MAPHIEU }) |
+            @Html.ActionLink("Sửa", "EditBooking", new { id = item.MAPHIEU }) |
+            @*@Html.ActionLink("Details", "Details", new { id=item.MAPHIEU }) |*@
+            @Html.ActionLink("Xóa", "DeleteBooking", new { id = item.MAPHIEU })
+        </td>
+    </tr>
+    }
+
+</table>
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+    <div class="MenuTrang">
+        @Html.PagedListPager(Model, page => Url.Action("BookingManager", new { page = page }))
+    </div>
+    <style>
+        .MenuTrang li {
+            display: inline;
+        }
+    </style>
