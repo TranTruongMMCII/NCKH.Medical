@@ -62,7 +62,7 @@ namespace DoAnCoSo.Controllers
             return RedirectToAction("DepartmentManager", "admin");
         }
 
-        public ActionResult DeleteDepartment(int id)
+        public ActionResult DeleteDepartment(int id, string btnDelete)
         {
             KHOA kh = data.KHOAs.FirstOrDefault(n => n.MAKHOA == id);
             if (kh == null)
@@ -70,37 +70,37 @@ namespace DoAnCoSo.Controllers
                 Response.StatusCode = 404;
                 return null;
             }
-            BACSI bs = data.BACSIs.SingleOrDefault(n => n.MABS == id);
-            while (bs != null)
+            
+            if(btnDelete == "Xóa")
             {
-                data.BACSIs.DeleteOnSubmit(bs);
+                var bacsi = (from bs in data.BACSIs where bs.MAKHOA == id select bs.MABS).ToList();
+
+                foreach (int i in bacsi)
+                {
+                    var phieu = (from ph in data.PHIEUHENs where ph.MABS == i select ph.MAPHIEU).ToList();
+                    foreach (int j in phieu)
+                    {
+                        PHIEUHEN pHIEUHEN = data.PHIEUHENs.SingleOrDefault(n => n.MAPHIEU == j);
+                        KETQUA kETQUA = data.KETQUAs.SingleOrDefault(n => n.MAPHIEU == j);
+                        data.PHIEUHENs.DeleteOnSubmit(pHIEUHEN);
+                        data.KETQUAs.DeleteOnSubmit(kETQUA);
+                    }
+
+                    var giokham = (from gk in data.GIOKHAMs where gk.MABS == i select gk).ToList();
+                    foreach (var j in giokham)
+                    {
+                        data.GIOKHAMs.DeleteOnSubmit(j);
+                    }
+
+                    BACSI bACSI = data.BACSIs.SingleOrDefault(k => k.MABS == i);
+                    data.BACSIs.DeleteOnSubmit(bACSI);
+                }
+                data.KHOAs.DeleteOnSubmit(kh);
                 data.SubmitChanges();
-                bs = data.BACSIs.FirstOrDefault(n => n.MABS == id);
+                return RedirectToAction("DepartmentManager");
             }
-            //KETQUA kq = data.KETQUAs.FirstOrDefault(n => n.MAPHIEU == id);
-            //while (kq != null)
-            //{
-            //    data.KETQUAs.DeleteOnSubmit(kq);
-            //    data.SubmitChanges();
-            //    kq = data.KETQUAs.FirstOrDefault(n => n.MAPHIEU == id);
-            //}
-            PHIEUHEN ph = data.PHIEUHENs.FirstOrDefault(n => n.MAPHIEU == id);
-            while (ph != null)
-            {
-                data.PHIEUHENs.DeleteOnSubmit(ph);
-                data.SubmitChanges();
-                ph = data.PHIEUHENs.FirstOrDefault(n => n.MAPHIEU == id);
-            }
-            GIOKHAM gk = data.GIOKHAMs.FirstOrDefault(n => n.MABS == id);
-            while (gk != null)
-            {
-                data.GIOKHAMs.DeleteOnSubmit(gk);
-                data.SubmitChanges();
-                gk = data.GIOKHAMs.FirstOrDefault(n => n.MABS == id);
-            }
-            data.KHOAs.DeleteOnSubmit(kh);
-            data.SubmitChanges();
-            return RedirectToAction("DepartmentManager");
+
+            return View(kh);
         }
         [HttpGet]
         public ActionResult CreateDepartment()
@@ -182,7 +182,7 @@ namespace DoAnCoSo.Controllers
             }
             return RedirectToAction("DoctorManager");
         }
-        public ActionResult DeleteDoctor(int id)
+        public ActionResult DeleteDoctor(int id, string btnDelete)
         {
             BACSI bs = data.BACSIs.SingleOrDefault(n => n.MABS == id);
             if (bs == null)
@@ -190,37 +190,42 @@ namespace DoAnCoSo.Controllers
                 Response.StatusCode = 404;
                 return null;
             }
-            KHOA kh = data.KHOAs.FirstOrDefault(n => n.MAKHOA == id);
-            while (kh != null)
+            //KHOA kh = data.KHOAs.FirstOrDefault(n => n.MAKHOA == id);
+            //while (kh != null)
+            //{
+            //    data.KHOAs.DeleteOnSubmit(kh);
+            //    data.SubmitChanges();
+            //    kh = data.KHOAs.FirstOrDefault(n => n.MAKHOA == id);
+            //}
+            if(btnDelete == "Xóa")
             {
-                data.KHOAs.DeleteOnSubmit(kh);
+                KETQUA kq = data.KETQUAs.FirstOrDefault(n => n.MAPHIEU == id);
+                while (kq != null)
+                {
+                    data.KETQUAs.DeleteOnSubmit(kq);
+                    data.SubmitChanges();
+                    kq = data.KETQUAs.FirstOrDefault(n => n.MAPHIEU == id);
+                }
+                PHIEUHEN ph = data.PHIEUHENs.FirstOrDefault(n => n.MABS == id);
+                while (ph != null)
+                {
+                    data.PHIEUHENs.DeleteOnSubmit(ph);
+                    data.SubmitChanges();
+                    ph = data.PHIEUHENs.FirstOrDefault(n => n.MABS == id);
+                }
+                GIOKHAM gk = data.GIOKHAMs.FirstOrDefault(n => n.MABS == id);
+                while (gk != null)
+                {
+                    data.GIOKHAMs.DeleteOnSubmit(gk);
+                    data.SubmitChanges();
+                    gk = data.GIOKHAMs.FirstOrDefault(n => n.MABS == id);
+                }
+                data.BACSIs.DeleteOnSubmit(bs);
                 data.SubmitChanges();
-                kh = data.KHOAs.FirstOrDefault(n => n.MAKHOA == id);
+                return RedirectToAction("DoctorManager");
             }
-            KETQUA kq = data.KETQUAs.FirstOrDefault(n => n.MAPHIEU == id);
-            while (kq != null)
-            {
-                data.KETQUAs.DeleteOnSubmit(kq);
-                data.SubmitChanges();
-                kq = data.KETQUAs.FirstOrDefault(n => n.MAPHIEU == id);
-            }
-            PHIEUHEN ph = data.PHIEUHENs.FirstOrDefault(n => n.MABS == id);
-            while (ph != null)
-            {
-                data.PHIEUHENs.DeleteOnSubmit(ph);
-                data.SubmitChanges();
-                ph = data.PHIEUHENs.FirstOrDefault(n => n.MABS == id);
-            }
-            GIOKHAM gk = data.GIOKHAMs.FirstOrDefault(n => n.MABS == id);
-            while (gk != null)
-            {
-                data.GIOKHAMs.DeleteOnSubmit(gk);
-                data.SubmitChanges();
-                gk = data.GIOKHAMs.FirstOrDefault(n => n.MABS == id);
-            }
-            data.BACSIs.DeleteOnSubmit(bs);
-            data.SubmitChanges();
-            return RedirectToAction("DoctorManager");
+
+            return View(bs);
         }
         [HttpGet]
         public ActionResult CreateDoctor()
@@ -273,7 +278,7 @@ namespace DoAnCoSo.Controllers
             data.SubmitChanges();
             return RedirectToAction("AdminManager", "Admin");
         }
-        public ActionResult DeleteAdmin(string id)
+        public ActionResult DeleteAdmin(string id, string btnDelete)
         {
             TAIKHOAN tk = data.TAIKHOANs.SingleOrDefault(n => n.ID == id);
             if (tk == null)
@@ -281,9 +286,15 @@ namespace DoAnCoSo.Controllers
                 Response.StatusCode = 404;
                 return null;
             }
-            data.TAIKHOANs.DeleteOnSubmit(tk);
-            data.SubmitChanges();
-            return RedirectToAction("AdminManager");
+
+            if(btnDelete == "Xóa")
+            {
+                data.TAIKHOANs.DeleteOnSubmit(tk);
+                data.SubmitChanges();
+                return RedirectToAction("AdminManager");
+            }
+
+            return View(tk);
         }
         [HttpGet]
         public ActionResult EditAdmin(string id)
@@ -351,7 +362,7 @@ namespace DoAnCoSo.Controllers
             }
             return RedirectToAction("ResultManager");
         }
-        public ActionResult DeleteResult(int id)
+        public ActionResult DeleteResult(int id, string btnDelete)
         {
             KETQUA kq = data.KETQUAs.SingleOrDefault(n => n.MAPHIEU == id);
             if (kq == null)
@@ -359,9 +370,15 @@ namespace DoAnCoSo.Controllers
                 Response.StatusCode = 404;
                 return null;
             }
-            data.KETQUAs.DeleteOnSubmit(kq);
-            data.SubmitChanges();
-            return RedirectToAction("ResultManager");
+            
+            if(btnDelete == "Xóa")
+            {
+                data.KETQUAs.DeleteOnSubmit(kq);
+                data.SubmitChanges();
+                return RedirectToAction("ResultManager");
+            }
+
+            return View(kq);
         }
         [HttpGet]
         public ActionResult EditResult(int id)
@@ -452,7 +469,7 @@ namespace DoAnCoSo.Controllers
             return View(phieuhen.ToPagedList(pageNum, pageSize));
         }
 
-        public ActionResult DeleteBooking(int id)
+        public ActionResult DeleteBooking(int id, string btnDelete)
         {
             PHIEUHEN ph = data.PHIEUHENs.SingleOrDefault(n => n.MAPHIEU == id);
             if (ph == null)
@@ -460,16 +477,21 @@ namespace DoAnCoSo.Controllers
                 Response.StatusCode = 404;
                 return null;
             }
-            BACSI bs = data.BACSIs.FirstOrDefault(n => n.MABS == id);
-            while (bs != null)
+            
+            if (btnDelete == "Xóa")
             {
-                data.BACSIs.DeleteOnSubmit(bs);
+                KETQUA kq = data.KETQUAs.FirstOrDefault(n => n.MAPHIEU == id);
+                while (kq != null)
+                {
+                    data.KETQUAs.DeleteOnSubmit(kq);
+                    data.SubmitChanges();
+                    kq = data.KETQUAs.FirstOrDefault(n => n.MAPHIEU == id);
+                }
+                data.PHIEUHENs.DeleteOnSubmit(ph);
                 data.SubmitChanges();
-                bs = data.BACSIs.FirstOrDefault(n => n.MABS == id);
+                return RedirectToAction("BookingManager");
             }
-            data.PHIEUHENs.DeleteOnSubmit(ph);
-            data.SubmitChanges();
-            return RedirectToAction("BookingManager");
+            return View(ph);
         }
 
         [HttpGet]
@@ -514,7 +536,7 @@ namespace DoAnCoSo.Controllers
             return RedirectToAction("TimeManager");
         }
         [HttpGet]
-        public ActionResult DeleteTime(int id)
+        public ActionResult DeleteTime(int id, string btnDelete)
         {
             GIOKHAM gk = data.GIOKHAMs.SingleOrDefault(n => n.MABS == id);
             if (gk == null)
@@ -522,9 +544,14 @@ namespace DoAnCoSo.Controllers
                 Response.StatusCode = 404;
                 return null;
             }
-            data.GIOKHAMs.DeleteOnSubmit(gk);
-            data.SubmitChanges();
-            return RedirectToAction("TimeManager");
+           
+            if(btnDelete == "Xóa")
+            {
+                data.GIOKHAMs.DeleteOnSubmit(gk);
+                data.SubmitChanges();
+                return RedirectToAction("TimeManager");
+            }
+            return View(gk);
         }
 
         [HttpGet]

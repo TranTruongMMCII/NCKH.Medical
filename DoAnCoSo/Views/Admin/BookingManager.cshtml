@@ -3,11 +3,11 @@
 @model PagedList.PagedList<PHIEUHEN>
 
 @{
-    ViewBag.Title = "BookingManager";
+    ViewBag.Title = "Quản lý đặt lịch";
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h2>BookingManager</h2>
+<h2>Quản lý đặt lịch</h2>
 
 <p>
     @Html.ActionLink("Tạo mới Phiếu hẹn", "CreateBooking")
@@ -16,51 +16,51 @@
     <tr>
         <th>
             @*@Html.DisplayNameFor(model => model.HOTEN)*@
-            MAPHIEU
+            Mã phiếu
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.HOTEN)*@
-            HOTEN
+            Họ tên
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.GIOITINH)*@
-            GIOITINH
+            Giới tính
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.NAMSINH)*@
-            NAMSINH
+            Năm sinh
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.DIACHI)*@
-            DIACHI
+            Địa chỉ
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.SDT)*@
-            SDT
+            Số điện thoại
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.NGAYKHAM)*@
-            NGAYKHAM
+            Ngày khám
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.GIOKHAM)*@
-            GIOKHAM
+            Giờ khám
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.MOTA)*@
-            MOTA
+            Mô tả
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.MABS)*@
-            MABS
+            Mã bác sĩ
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.MAXACTHUC)*@
-            MAXACTHUC
+            Mã xác thực
         </th>
         <th>
             @*@Html.DisplayNameFor(model => model.TRANGTHAI)*@
-            TRANGTHAI
+            Trạng thái
         </th>
         <th></th>
     </tr>

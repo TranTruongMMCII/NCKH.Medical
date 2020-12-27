@@ -3,11 +3,11 @@
 @model PagedList.PagedList<KHOA>
 
 @{
-    ViewBag.Title = "DepartmentManager";
+    ViewBag.Title = "Quản lý khoa";
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h2>DepartmentManager</h2>
+<h2>Quản lý khoa</h2>
 
 <p>
     @Html.ActionLink("Thêm Khoa", "CreateDepartment")
@@ -15,11 +15,11 @@
 <table class="table">
     <tr>
         <th>
-            MAKHOA
+            Mã khoa
         </th>
         <th>
             @*Html.DisplayNameFor(model => model.TENKHOA)*@
-            TENKHOA
+            Tên khoa
         </th>
         <th></th>
     </tr>

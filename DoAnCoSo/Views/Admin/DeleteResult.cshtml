@@ -6,9 +6,9 @@
 }
 
 
-<h3>Bạn muốn xóa kết quả khám này ?</h3>
+<h3>Bạn muốn xóa kết quả khám này chứ?</h3>
 <div>
-    <h4>KETQUA</h4>
+    <h4>Kết quả</h4>
     <hr />
     <dl class="dl-horizontal">
         <dt>
@@ -73,8 +73,8 @@
         @Html.AntiForgeryToken()
 
         <div class="form-actions no-color">
-            <input type="submit" value="Delete" class="btn btn-default" /> |
-            @Html.ActionLink("Back to List", "Index")
+            <input type="submit" value="Xóa" name="btnDelete" class="btn btn-default" /> |
+            @Html.ActionLink("Trở về", "Index")
         </div>
     }
 </div>
